@@ -10,6 +10,9 @@ Solutions are organized by:
 
 ## Current Topics/Patterns
 
+### Binary Search
+- Binary Search
+
 ### Design
 - Implementing HashSet
 - Implementing Stack using Queues
